@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.cuhk.edu.hk/english/index.html'>Affiliations</a>. The Chinese University of Hong Kong.
 
 profile:
   align: right
