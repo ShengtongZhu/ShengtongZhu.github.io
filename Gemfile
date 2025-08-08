@@ -20,11 +20,6 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'unicode_utils'
     gem 'webrick'
-    gem "jekyll-archives"
-    gem "jekyll-feed"
-    gem "jekyll-sitemap"
-    gem "jekyll-scholar"
-    gem "jekyll-webp"
 end
 group :other_plugins do
     gem 'css_parser'

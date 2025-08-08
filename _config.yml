@@ -114,7 +114,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  Feel free to reach out.
+  Hi.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -215,25 +215,7 @@ latest_posts:
 # Jekyll settings
 # -----------------------------------------------------------------------------
 
-# The following settings are optional, and are provided here to illustrate the default values.
-# You can safely delete any lines you don't need to customize.
-
-# -----------------------------------------------------------------------------
-# Jekyll settings
-# -----------------------------------------------------------------------------
-
-# WebP conversion
-webp:
-  enabled: true
-  quality: 75
-  img_dir: ["/assets/img"]
-  nested: true
-  formats: [".jpeg", ".jpg", ".png", ".tiff"]
-  gifs: [".gif"]
-  regenerate: false
-  append_ext: false
-
-# Markdown and syntax highlighting
+# Markdown and syntax highlight
 markdown: kramdown
 highlighter: rouge
 kramdown:
