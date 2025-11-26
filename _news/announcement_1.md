@@ -5,4 +5,3 @@ inline: true
 related_posts: false
 ---
 
-One paper is accpeted in NSDI 2026.
