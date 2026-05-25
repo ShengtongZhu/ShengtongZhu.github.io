@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.cuhk.edu.hk/english/index.html'>The Chinese University of Hong Kong</a>
+subtitle: Intelligent Computing Architecture and Operating System Researcher (Soaring Star Talent Program) at <a href='https://www.bytedance.com/'>ByteDance Singapore</a>
 
 profile:
   align: right
